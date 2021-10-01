@@ -1,0 +1,33 @@
+#title{
+ font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+ text-align: center;
+}
+#codebox{
+ position: absolute;
+ right:55%;
+ top:15%;
+ height: 400px;
+ width: 400px;
+ padding: 9px;
+ font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+ font-size: larger;
+}
+#shellbox{
+ position: absolute;
+ left:55%;
+ top:15%;
+ height: 400px;
+ width: 400px;
+ padding: 9px;
+ font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+ font-size: larger;
+}
+#runbutton{
+ position: absolute;
+ top: 550px;
+ left:45%;
+ height: 40px;
+ width: 10%;
+ font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+ font-size: larger;
+}
