@@ -13,7 +13,6 @@ function run(){
   })
   .then(response => response.json())
 
-  .then(response => JSON.stringify(response))
 
-  .then(response => shell.innerHTML=response)
+  .then(response => shell.value=response.outputcode)
  }
