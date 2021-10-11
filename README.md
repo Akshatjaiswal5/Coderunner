@@ -1,2 +1,2 @@
-# coderunner
-Run code
+# Coderunner
+An web client to compile and run C++ code made using Python flask framework.
